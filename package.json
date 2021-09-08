@@ -1,11 +1,24 @@
 {
   "name": "extract-emojis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extract emojis from a given string",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "node index.js"
   },
+  "keywords": [
+    "emoji",
+    "extractemoji",
+    "extractemojis",
+    "extract-emoji",
+    "extract-emojis",
+    "extract_emoji",
+    "extract_emojis",
+    "getemoji",
+    "getemojis",
+    "stringtoemoji",
+    "string2emoji"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/IamIsPra/extract-emojis.git"
