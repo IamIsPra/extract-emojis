@@ -1,0 +1,19 @@
+{
+  "name": "extract-emojis",
+  "version": "1.0.0",
+  "description": "Extract emojis from a given string",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamIsPra/extract-emojis.git"
+  },
+  "author": "Isuru Prabath (IamIsPra)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IamIsPra/extract-emojis/issues"
+  },
+  "homepage": "https://github.com/IamIsPra/extract-emojis#readme"
+}
