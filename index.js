@@ -36,4 +36,4 @@ function extractEmojis(content){
     return emojis
 }
 
-export default extractEmojis;
+module.exports = extractEmojis;
