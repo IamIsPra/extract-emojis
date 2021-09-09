@@ -81,7 +81,7 @@ console.log(extractEmojis("I am hungry 🍽️😋🍕"));
 
 ```
 
-Found a bug? Open an issues. :bug:
+Found a bug? Open an issue. :bug:
 
 
 Thanks! :heart:
